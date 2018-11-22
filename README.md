@@ -56,7 +56,7 @@ This text file is later used by LSTM network to train.We use this network to pre
 
 ## Acknowledgemnts 
 
-*Siddharth Bhonge https://github.com/siddharth 
+*Siddharth Bhonge https://github.com/siddharthbhonge 
 
 
 
