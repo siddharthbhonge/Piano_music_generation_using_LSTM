@@ -3,7 +3,7 @@
 Most imporvisation networks are pretty heavy and use Sequence to sequence models.Here,midi library in pythonn is used to convert the notes into musical information such as Note on ,Set tempo and Control Change.
 This text file is later used by LSTM network to train.We use this network to predict the next feature.
 
-[Demo (Original MP3)](https://soundcloud.com/siddharth-bhonge/original?in=siddharth-bhonge/sets/lstm-output)
+[Demo (Original MP3)](https://soundcloud.com/siddharth-bhonge/original?in=siddharth-bhonge/sets/lstm-output) | 
 [Demo (Generated MP3)](https://soundcloud.com/siddharth-bhonge/generated?in=siddharth-bhonge/sets/lstm-output)
 
 [![screenshot](https://github.com/siddharthbhonge/Piano_music_generation_using_LSTM/blob/master/img/images.jpeg)
@@ -14,7 +14,7 @@ This text file is later used by LSTM network to train.We use this network to pre
  - Python MIDI
 -  Numpy
 
-## Usage
+## Details
 
   #### 1. Learn MIDI Library  details
   
@@ -64,4 +64,4 @@ This text file is later used by LSTM network to train.We use this network to pre
 ## Reference
 
 Sequnce to Sequnce Model from Andrew Ng's Deep Learning Specialization.<br />
-But personally this is a better one.<br/ >
+But personally this is a better one.
