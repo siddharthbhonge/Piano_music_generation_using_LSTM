@@ -1,4 +1,4 @@
-# Imrovising Beethoven using LSTM
+# Imrovising Beethoven using LSTM (Jetson TX2)
 
 Most imporvisation networks are pretty heavy and use Sequence to sequence models.Here,midi library in pythonn is used to convert the notes into musical information such as Note on ,Set tempo and Control Change.
 This text file is later used by LSTM network to train.We use this network to predict the next feature.
@@ -7,7 +7,7 @@ This text file is later used by LSTM network to train.We use this network to pre
 [Demo (Generated MP3)](https://soundcloud.com/siddharth-bhonge/generated?in=siddharth-bhonge/sets/lstm-output)
 
 [![screenshot](https://github.com/siddharthbhonge/Piano_music_generation_using_LSTM/blob/master/img/images.jpeg)
-## Dependencies
+## Installation
 
  - Keras
  - TensorFlow
